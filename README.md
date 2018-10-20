@@ -1,2 +1,0 @@
-# Meeting_App_with_redux_and_firestore
-Created with CodeSandbox
